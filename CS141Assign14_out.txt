@@ -1,0 +1,22 @@
+Sue worked for a total of: 27 hours at $12.6 an hour for a gross pay of $340.2.After 25% taxes their total net pay should be $255.15.
+
+Juan worked for a total of: 28 hours at $13.75 an hour for a gross pay of $385.0.After 25% taxes their total net pay should be $288.75.
+
+Betty worked for a total of: 24 hours at $12.1 an hour for a gross pay of $290.4.After 25% taxes their total net pay should be $217.8.
+
+Jin worked for a total of: 26 hours at $14.9 an hour for a gross pay of $387.4.After 25% taxes their total net pay should be $290.55.
+
+Carlos worked for a total of: 17 hours at $10.0 an hour for a gross pay of $170.0.After 25% taxes their total net pay should be $127.5.
+
+Anthony worked for a total of: 40 hours at $7.5 an hour for a gross pay of $300.0.After 25% taxes their total net pay should be $225.0.
+
+Mary worked for a total of: 40 hours at $12.5 an hour for a gross pay of $500.0.After 33% taxes their total net pay should be $335.0.
+
+Cleo worked for a total of: 36 hours at $9.99 an hour for a gross pay of $359.64.After 25% taxes their total net pay should be $269.73.
+
+Beth worked for a total of: 20 hours at $11.11 an hour for a gross pay of $222.2.After 25% taxes their total net pay should be $166.65.
+
+Leo worked for a total of: 40 hours at $15.0 an hour for a gross pay of $600.0.After 33% taxes their total net pay should be $402.0.
+
+Anderson worked for a total of: 31 hours at $11.2 an hour for a gross pay of $347.2.After 25% taxes their total net pay should be $260.4.
+
